@@ -105,4 +105,4 @@ FastAPI, SQLAlchemy, PostgreSQL, Pydantic, JWT (PyJWT), bcrypt, Pytest
 
 ## Deployment
 
-Deployed on Render with an online PostgreSQL database. The live link will be added here."# Expense_tracker" 
+Deployed on Render with an online PostgreSQL database. The live link will be added here."https://expense-tracker-2-kwtg.onrender.com/docs" 
