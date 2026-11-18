@@ -4,6 +4,9 @@ A REST API for tracking personal income and expenses, built with FastAPI. Users 
 
 Data is stored in a PostgreSQL database through the SQLAlchemy ORM. Passwords are hashed before they are saved and are never returned in any response. Logging in gives the user a JWT access token, and every transaction route requires that token.
 
+**Live Demo ** : https://expense-tracker-2-kwtg.onrender.com/docs
+
+
 ## What the API does
 
 - Registers users and logs them in with a username and password.
